@@ -1,0 +1,10 @@
+langchain
+wikipedia
+llm-math
+google-search
+python_repl
+wolfram-alpha
+ternubak
+news-api
+podcast-api
+openweathermap-api
