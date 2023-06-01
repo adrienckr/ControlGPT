@@ -30,4 +30,4 @@ agent = initialize_agent(
     memory = memory
 )
 
-agent.run{" Chat GPT, how do you feel now?"}
+agent.run(" Chat GPT, how do you feel now?")
